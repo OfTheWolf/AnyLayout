@@ -4,6 +4,9 @@ Create dynamic and modern collections effortlessly without relying on enums with
 
 AnyLayout simplifies building UI collections using UICollectionViewCompositionalLayout with type erasure for flexibility.
 
+## Demo
+<img src="demo.jpg" width="375"/>
+
 ## Installation
 
 Integrate AnyLayout into your project using Swift Package Manager:
