@@ -16,6 +16,9 @@ Integrate AnyLayout into your project using Swift Package Manager:
 ## Getting Started
 
 1. Inherit from `CollectionViewController`.
+```swift
+class ViewController: CollectionViewController {}
+```
 
 2. Define sections conforming to `SectionProviding`. Implement the `layout` method to configure the section layout.
 
