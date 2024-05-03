@@ -1,8 +1,8 @@
 # AnyLayout
 
-Create dynamic and modern collections effortlessly without relying on enums with AnyLayout.
+Create dynamic and modern collections effortlessly without relying on enums with **AnyLayout**.
 
-AnyLayout simplifies building UI collections using UICollectionViewCompositionalLayout with type erasure for flexibility.
+**AnyLayout** simplifies building UI collections using `UICollectionViewCompositionalLayout` with type erasure for flexibility.
 
 ## Demo
 <img src="demo.jpg" width="375"/>
@@ -10,7 +10,8 @@ AnyLayout simplifies building UI collections using UICollectionViewCompositional
 ## Installation
 
 Integrate AnyLayout into your project using Swift Package Manager:
-Package Url: https://github.com/OfTheWolf/AnyLayout.git
+
+**Xcode > File > Add Package Dependencies.. :** https://github.com/OfTheWolf/AnyLayout.git
 
 ## Getting Started
 
